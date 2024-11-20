@@ -41,12 +41,6 @@ This app is built with the possibility of future upgrades in mind. Space has bee
 - User authentication and profiles
 - Cloud storage and synchronization across devices
 - Advanced search filters and sorting options
-## Contributing
-1. Fork the repository.
-2. Create a new branch (git checkout -b feature/your-feature-name).
-3. Commit your changes (git commit -m 'Add your feature').
-4. Push to the branch (git push origin feature/your-feature-name).
-5. Open a pull request.
 
 ## License
 This project is licensed under the MIT License.
